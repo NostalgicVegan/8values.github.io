@@ -612,6 +612,13 @@ questions = [
         }
     },
     {
+        "question":"if we abolish taxes, we should do it as a means to stop corporate bailouts"
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 0,
+    {
         "question": "All people - regardless of factors like culture or sexuality - should be treated equally.",
         "effect": {
             "econ": 10,
